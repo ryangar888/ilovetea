@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 setup(
 name='ilovetea',
-version='0.1.0',
+version='0.1.1',
 author='Elonmute',
 author_email='elonmute@gmail.com',
 description='This is first project on Tea protocol',
